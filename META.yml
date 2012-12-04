@@ -19,4 +19,6 @@ no_index:
     - inc
 requires:
   Mojolicious: 3.56
-version: 0.02
+  Test::More: 0
+  Test::Warn: 0
+version: 0.03

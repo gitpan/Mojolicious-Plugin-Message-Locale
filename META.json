@@ -32,10 +32,12 @@
       },
       "runtime" : {
          "requires" : {
-            "Mojolicious" : "3.56"
+            "Mojolicious" : "3.56",
+            "Test::More" : 0,
+            "Test::Warn" : 0
          }
       }
    },
    "release_status" : "stable",
-   "version" : "0.02"
+   "version" : "0.03"
 }
